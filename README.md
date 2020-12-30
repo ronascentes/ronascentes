@@ -9,13 +9,6 @@
 - 😁 I created [sp_who3](https://github.com/ronascentes/sp_who3), my first open source work.
 - 😐 I created a bunch of ad hoc scripts related to database administration. You can find those at my [GitHub Gist](https://gist.github.com/ronascentes).
 
-- 💬 You can ask me about:
-  - High-availability and disaster-recovery database design
-  - Performance tuning in SQL Server and MongoDB systems
-  - T-SQL querying tuning and programming 
-  - Powershell scripting tools and automation
-  - Splunk log analysis 
-
 - 📫 How to reach me: 
   - [🕊 - Twitter](https://twitter.com/@ronascentes/)
   - [🏢 - LinkedIn](https://www.linkedin.com/in/rodrigonascentes/)
