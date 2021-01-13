@@ -3,7 +3,7 @@
 ### I'm DBA at [Dell Technologies](http://www.delltechnologies.com/). ✨
 
 - 🔭 I’m currently working on database administration of SQL Server and [MongoDB](https://github.com/MongoDB).
-- 💚 Passionate about building tools and automation with [PowerShell](https://github.com/PowerShell) in order to make the DBA life easier. ☕️ 
+- 💚 Passionate about building tools and always looking to automate manual tasks to make the DBA life easier. ☕️ 
 - 🌱 I’m currently learning about containers such as Docker, Kubernetes and Pivotal Kubernetes Services (PKS).
 
 - 😁 I created [sp_who3](https://github.com/ronascentes/sp_who3), my first open source work.
