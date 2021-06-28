@@ -12,8 +12,8 @@ My current areas of expertise include:
 - Monitoring and observability with Splunk, Prometheus and Grafana
 
 My projects:
-- [sp_who3](https://github.com/ronascentes/sp_who3), my first open source work.
-- A bunch of ad hoc scripts related to database administration. You can find those at my [GitHub Gist](https://gist.github.com/ronascentes).
+- [sp_who3](https://github.com/ronascentes/sp_who3) - a custom and open source alternative to the sp_who system stored procedures available in SQL Server.
+- [GitHub Gist](https://gist.github.com/ronascentes) - a bunch of ad hoc scripts related to database administration. 
 
 How to reach me: 
   - [🕊 - Twitter](https://twitter.com/@ronascentes/)
