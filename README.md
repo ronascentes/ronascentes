@@ -1,10 +1,9 @@
 ## Hi, I'm Rodrigo 👋
 
-### I'm DBA at [Dell Technologies](http://www.delltechnologies.com/). ✨
+### I work for Dell Technologies on Database Enablement team. 
 
-- 🔭 I’m currently working on database administration of SQL Server and [MongoDB](https://github.com/MongoDB).
+- 🔭 I’m currently working with a set of techs such as SQL Server, MongoDB, Cassandra and Elasticsearch.
 - 💚 Passionate about building tools and always looking to automate manual tasks to make the DBA life easier. ☕️ 
-- 🌱 I’m currently learning about containers such as Docker, Kubernetes and Pivotal Kubernetes Services (PKS).
 
 - 😁 I created [sp_who3](https://github.com/ronascentes/sp_who3), my first open source work.
 - 😐 I created a bunch of ad hoc scripts related to database administration. You can find those at my [GitHub Gist](https://gist.github.com/ronascentes).
